@@ -20,11 +20,11 @@ I'm Yann, a full-stack developer who builds modern, performant applications. I t
 
 ## > LATEST TRANSMISSION
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="middle" style="padding-right: 20px;">
       <a href="https://apexguessr.com" target="_blank">
-        <img src="link" alt="apexguessr demo"/>
+        <img width="100%" src="https://github.com/user-attachments/assets/3d40d442-837e-48ff-b8a7-0cb05c573909" alt="apexguessr demo"/>
       </a>
     </td>
     <td width="40%" valign="top">
