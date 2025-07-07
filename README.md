@@ -8,7 +8,7 @@
 
 ---
 
-I'm Yann, a full-stack developer who builds modern, performant applications. I try to blend robust backend logic, fluid frontend interfaces, and a deep appreciation for the aesthetics of early 2000s tech culture.
+I'm Yann, a full-stack developer who builds modern, performant applications. I try to blend robust backend logic, fluid frontend interfaces.
 
 - 🚀 Currently crafting immersive digital experiences, like my [portfolio site](https://mazita.dev) and the project below.
 - 💻 My primary tools are **Python (FastAPI)** on the backend and **React/TypeScript** (with some Vue) on the frontend.
