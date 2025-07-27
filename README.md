@@ -8,11 +8,11 @@
 
 ---
 
-I'm Yann, a full-stack developer who builds modern, performant applications. I try to blend robust backend logic, fluid frontend interfaces.
+I'm Yann, a full-stack developer who builds modern, performant applications. I try to blend robust backend logic with fluid frontend interfaces.
 
-- 🚀 Currently crafting immersive digital experiences, like my [portfolio site](https://mazita.dev) and the project below.
+- 🚀 Currently learning GPU programming (WebGPU/WGSL) to build even more immersive experiences.
 - 💻 My primary tools are **Python (FastAPI)** on the backend and **React/TypeScript** (with some Vue) on the frontend.
-- ☁️ I'm experienced in deploying and managing infrastructure with **Docker, Terraform, and GCP**.
+- ☁️ I'm experienced in deploying and managing infrastructure with **Docker, Terraform, Hetzner and GCP**.
 
 ## > LATEST TRANSMISSION
 
